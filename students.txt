@@ -1,0 +1,5 @@
+Student Name : Gaurav,Roll NO : 1,Enrollment Number : 21,Branch : asd,Email : w@gmail.com,Phone No : 4125896359,  Registered Events: Cricket|Volleyball
+Student Name : Riya,Roll NO : 2,Enrollment Number : 22,Branch : AIml,Email : d@gmail.com,Phone No : 7896541236,Cricket|Basketball
+Student Name : xyz,Roll NO : 4,Enrollment Number : 25,Branch : jh,Email : a@g.co,Phone No : 7896541235,
+Student Name : Trail,Roll NO : 150,Enrollment Number : 100,Branch : AIML,Email : a@gmail.com,Phone No : 7896541230,Cricket
+Student Name : qwe,Roll NO : 14,Enrollment Number : 101,Branch : wqw,Email : a@gmail.com,Phone No : 7412589630,
